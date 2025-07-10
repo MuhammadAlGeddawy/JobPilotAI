@@ -1,0 +1,14 @@
+Professional Summary
+AI/ML Engineer with 3+ years of experience in developing machine learning models and deploying AI systems.
+
+Skills
+- Python, TensorFlow, PyTorch, Scikit-learn
+- NLP, Computer Vision, Deep Learning
+
+Work Experience
+AI Engineer at XYZ Solutions
+- Developed an NLP-based document classifier
+- Deployed models using Docker and AWS
+
+Education
+B.Sc. in Computer Engineering, University of Cairo, 2020
